@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "name": "United International University",
+    "code": "UIU"
+  },
+  {
+    "id": 2,
+    "name": "Bangladesh University of Engineering and Technology",
+    "code": "BUET"
+  },
+  {
+    "id": 3,
+    "name": "North South University",
+    "code": "NSU"
+  },
+  {
+    "id": 4,
+    "name": "BRAC University",
+    "code": "BRACU"
+  },
+  {
+    "id": 5,
+    "name": "Dhaka University",
+    "code": "DU"
+  },
+  {
+    "id": 6,
+    "name": "East West University",
+    "code": "EWU"
+  },
+  {
+    "id": 7,
+    "name": "Rajshahi University",
+    "code": "RU"
+  },
+  {
+    "id": 8,
+    "name": "Tangail University",
+    "code": "TU"
+  },
+  {
+    "id": 1748597138470,
+    "name": "Uttara University",
+    "code": "UU"
+  },
+  {
+    "id": 1751383971656,
+    "name": "Dhaka Medical College",
+    "code": "DMC"
+  }
+]

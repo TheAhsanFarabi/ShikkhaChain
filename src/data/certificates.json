@@ -1,0 +1,35 @@
+[
+  {
+    "hash": "0x2c6e0a81f0d56dd42839be1c5070c80e18df60ff424933f18eab45e93a78e919",
+    "studentName": "Jarif",
+    "course": "BSCSE",
+    "institution": "BRAC University",
+    "duration": "2 Years",
+    "grade": "3.15",
+    "credentialType": "Degree",
+    "status": "valid",
+    "issuedAt": "2025-06-07T14:45:16.512Z"
+  },
+  {
+    "hash": "0x0c2fc3862f670f3b4429b654fd8ab8a2dd3aec25ad5a9c4c68141650248c9d1c",
+    "studentName": "Farabi",
+    "course": "BSCSE",
+    "institution": "East West University",
+    "duration": "3 Months",
+    "grade": "3.8",
+    "credentialType": "Certificate",
+    "status": "revoked",
+    "issuedAt": "2025-07-02T07:22:57.522Z"
+  },
+  {
+    "hash": "0xb736af0490e53912b583642caf4b52e8c6b6a2364ad0fe996da8a026f3b855f7",
+    "studentName": "Ishayat",
+    "course": "BSCSE",
+    "institution": "United International University",
+    "duration": "2 Years",
+    "grade": "4.00",
+    "credentialType": "Diploma",
+    "status": "revoked",
+    "issuedAt": "2025-07-02T08:30:46.151Z"
+  }
+]
