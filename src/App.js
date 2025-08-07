@@ -14,53 +14,8 @@ import Report from "./components/Report";
 import useRole from "./hooks/useRole";
 import "./App.css";
 
-const CONTRACT_ADDRESS = "0xd83ee0e24d1399acbe379172f6d4bfc4d2b1091a";
-const CONTRACT_ABI = [
-  {
-    "inputs": [
-      { "internalType": "string", "name": "_studentName", "type": "string" },
-      { "internalType": "string", "name": "_course", "type": "string" },
-      { "internalType": "string", "name": "_institution", "type": "string" },
-      { "internalType": "string", "name": "_duration", "type": "string" },
-      { "internalType": "string", "name": "_grade", "type": "string" },
-      { "internalType": "string", "name": "_credentialType", "type": "string" }
-    ],
-    "name": "issueCertificate",
-    "outputs": [{ "internalType": "bytes32", "name": "", "type": "bytes32" }],
-    "stateMutability": "nonpayable",
-    "type": "function"
-  },
-  {
-    "inputs": [{ "internalType": "bytes32", "name": "certHash", "type": "bytes32" }],
-    "name": "revokeCertificate",
-    "outputs": [],
-    "stateMutability": "nonpayable",
-    "type": "function"
-  },
-  {
-    "inputs": [{ "internalType": "bytes32", "name": "certHash", "type": "bytes32" }],
-    "name": "verifyCertificate",
-    "outputs": [
-      { "internalType": "string", "name": "", "type": "string" },
-      { "internalType": "string", "name": "", "type": "string" },
-      { "internalType": "string", "name": "", "type": "string" },
-      { "internalType": "string", "name": "", "type": "string" },
-      { "internalType": "string", "name": "", "type": "string" },
-      { "internalType": "string", "name": "", "type": "string" },
-      { "internalType": "uint256", "name": "", "type": "uint256" },
-      { "internalType": "bool", "name": "", "type": "bool" }
-    ],
-    "stateMutability": "view",
-    "type": "function"
-  },
-  {
-    "inputs": [],
-    "name": "admin",
-    "outputs": [{ "internalType": "address", "name": "", "type": "address" }],
-    "stateMutability": "view",
-    "type": "function"
-  }
-];
+const CONTRACT_ADDRESS = "";
+const CONTRACT_ABI = [];
 
 function App() {
   const [account, setAccount] = useState(null);
