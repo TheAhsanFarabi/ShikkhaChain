@@ -14,6 +14,7 @@ import Report from "./components/Report";
 import useRole from "./hooks/useRole";
 import "./App.css";
 
+// PUT THE FOLLOWING INFO AFTER DEPLOYING THE CONTRACT IN REMIX
 const CONTRACT_ADDRESS = "";
 const CONTRACT_ABI = [];
 
