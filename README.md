@@ -17,3 +17,6 @@ ShikkhaChain is a decentralized platform for issuing, verifying, and revoking ac
 - 🌐 React-based frontend with MetaMask integration
 
 ---
+📄 [Read the full preprint on arXiv](https://arxiv.org/abs/2508.05334)  
+📅 Published: August 8, 2025  
+✍️ Authors: Ahsan Farabi, Israt Khandaker, Nusrat Jahan, Ibrahim Khalil Shanto
